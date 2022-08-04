@@ -32,4 +32,3 @@ export function renderFriend(friend) {
     return div;
 }
 
-//if input.value='' then name = `friend ${math.ceil(math.random * 100)`}
